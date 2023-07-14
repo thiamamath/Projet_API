@@ -1,0 +1,7 @@
+streamlit
+pandas
+fastapi
+flask
+jsonify
+plotly.express
+plotly
